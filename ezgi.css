@@ -1,0 +1,25 @@
+
+        body {
+            font-family: sans-serif;
+        }
+
+        div {
+            color: #aaaaaa;
+            width: 90%;
+            height: 50px;
+            text-align: right;
+        }
+
+        div:nth-child(even) {
+            background-color: #d42729;
+        }
+
+        #stars {
+            position: absolute;
+            height: 350px;
+        }
+
+        h1 {
+            text-align: center;
+            padding-top: 100px;
+        }
